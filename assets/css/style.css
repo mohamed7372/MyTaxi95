@@ -1160,11 +1160,23 @@ button.gauto-theme-btn:hover {
 }
 
 .slide-item-1 {
-	background: url(../img/slider-1.jpg);
+	background: url(../img/slide3.jpg);
+	background-position-y: -600px !important;
 }
 
 .slide-item-2 {
-	background: url(../img/slider-2.jpg);
+	background: url(../img/slide2.jpg);
+	background-position-y: -800px !important;
+}
+
+.slide-item-3 {
+	background: url(../img/slide4.jpg);
+	background-position-y: -900px !important;
+}
+
+.slide-item-4 {
+	background: url(../img/slide5.jpg);
+	background-position-y: -1000px !important;
 }
 
 .gauto-main-slide {
